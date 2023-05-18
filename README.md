@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MagnemusL
 - 👀 I’m interested in factory's
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning minecraft modding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
